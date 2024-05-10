@@ -3,7 +3,7 @@ Resumo Descritivo do Projeto: Estudo Otimizado com Colab e Gemini
 
 # O que é?
 
-O "Estudo Otimizado com Colab e Gemini" é uma ferramenta inovadora que utiliza inteligência artificial para criar planos de estudo personalizados, maximizando sua eficiência e te ajudando a alcançar seus objetivos.
+O "Estudo Otimizado com Colab e Gemini" é uma ferramenta simples e inovadora que utiliza inteligência artificial para criar planos de estudo personalizados, maximizando sua eficiência e te ajudando a alcançar seus objetivos.
 
 # Como funciona?
 
