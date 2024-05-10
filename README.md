@@ -1,5 +1,5 @@
 # Projeto_Imersao_Alura_Gemini
-Resusumo Descritivo do Projeto: Estudo Otimizado com Colab e Gemini
+Resumo Descritivo do Projeto: Estudo Otimizado com Colab e Gemini
 
 # O que é?
 
